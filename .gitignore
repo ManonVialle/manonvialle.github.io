@@ -1,0 +1,6 @@
+.hugo_build.lock
+go.sum
+node_modules/
+jsconfig.json
+public/
+resources/
